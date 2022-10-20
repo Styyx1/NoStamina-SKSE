@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "no-stamina-skse",
+  "version-string": "1.0.0",
+  "port-version": 0,
+  "description": "Disables stamina consumption for the player",
+  "homepage": "https://www.skyrimng.com",
+    "license": "Apache-2.0",
+    "features": {
+        "plugin": {
+            "description": "Build the SKSE plugin.",
+          "dependencies": [
+            "boost-stl-interfaces",
+            "commonlibsse-ng-flatrim",
+            "simpleini",
+            "rsm-binary-io"
+          ]
+        }
+    },
+    "default-features": [
+        "plugin"
+    ]
+}
