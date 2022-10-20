@@ -1,6 +1,10 @@
 # NoStamina-SKSE
 based on: https://github.com/malus741/NoStaminaConsumptionOutsideCombat  and changed + updated for GOG
 
+# I'm still in the midst of figuring out how that works, don't expect it to be the best way to do it. 
+**does currently only work for SSE and AE and GOG. not for VR**
+
+
 ## Requirements
 * [CMake](https://cmake.org/)
 	* Add this to your `PATH`
