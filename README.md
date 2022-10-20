@@ -1,5 +1,7 @@
 # NoStamina-SKSE
-based on: https://github.com/malus741/NoStaminaConsumptionOutsideCombat  and changed + updated for GOG
+based on: https://github.com/malus741/NoStaminaConsumptionOutsideCombat  slightly changed + updated for GOG
+
+the changes are only subtle but it helped me a ton to understand how to get started with SKSE plugins
 
 **Changes:**
 - No Stamina Consumption, neither out of combat, nor in combat
