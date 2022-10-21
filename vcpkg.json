@@ -11,7 +11,7 @@
             "description": "Build the SKSE plugin.",
           "dependencies": [
             "boost-stl-interfaces",
-            "commonlibsse-ng-flatrim",
+            "commonlibsse-ng",
             "simpleini",
             "rsm-binary-io"
           ]
