@@ -72,19 +72,6 @@
 				"vs2022-windows"
 			],
 			"name": "skyrim"
-		},
-		{
-			"binaryDir": "${sourceDir}/build/vr",
-			"cacheVariables": {
-				"BUILD_SKYRIMVR": true
-			},
-			"inherits": [
-				"cmake-dev",
-				"vcpkg",
-				"windows",
-				"vs2022-windows"
-			],
-			"name": "vr"
 		}
 	],
 	"version": 3
